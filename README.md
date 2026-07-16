@@ -18,14 +18,10 @@ RAG-based AI research paper assistant
 Helps researchers and students query academic papers instead of manually digging through them. Built with LangChain, ChromaDB, and Google Gemini 1.5 Flash.  
 🎥 [Watch Demo](https://youtu.be/8-tA-PktphE?si=KjlCQCOSSPQN0SRk)
 
-**[Project Name]** — One-line description of what it does  
-Short second line on the problem it solves or tech stack used.  
-🎥 [Watch Demo](https://youtube.com/link) &nbsp;|&nbsp; 💻 [View Code](https://github.com/yourusername/repo)
-
-**[Project Name]** — One-line description  
-Short second line.  
-🎥 [Watch Demo](https://youtube.com/link) &nbsp;|&nbsp; 💻 [View Code](https://github.com/yourusername/repo)
-
+**2. [Sentiment Analyzer](https://github.com/AimenSaeed/Sentiment-analysis)**  
+Sentiment classifier for Amazon food reviews  
+Classifies customer reviews as positive, negative, or neutral using NLP preprocessing and a classification model. Built with Python, scikit-learn, NLTK, and Streamlit.  
+🎥 [Watch Demo](https://youtube.com/link) 
 
 ---
 
