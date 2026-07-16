@@ -13,9 +13,10 @@ Final Year Software Engineering Student | Aspiring AI/ML Engineer<br>
 
 ### 🚀 Projects
 
-**[DeepCite](https://github.com/AimenSaeed/DeepCite)** RAG-based AI research paper assistant  
+**[DeepCite](https://github.com/AimenSaeed/DeepCite)** 
+RAG-based AI research paper assistant  
 Helps researchers and students query academic papers instead of manually digging through them. Built with LangChain, ChromaDB, and Google Gemini 1.5 Flash.  
-🎥 [Watch Demo](https://youtu.be/8-tA-PktphE?si=KjlCQCOSSPQN0SRk) &nbsp;|&nbsp; 
+🎥 [Watch Demo](https://youtu.be/8-tA-PktphE?si=KjlCQCOSSPQN0SRk)
 
 **[Project Name]** — One-line description of what it does  
 Short second line on the problem it solves or tech stack used.  
